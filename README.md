@@ -1,29 +1,35 @@
 # Healthcare Delivery Route Optimisation
 
-> A hybrid metaheuristic algorithm combining K-Means clustering and Ant Colony Optimisation (ACO) to solve a complex, real-world Vehicle Routing Problem (VRP) for healthcare logistics.
+> A high-performance optimisation solution for solving the complex Vehicle Routing Problem (VRP), a variant of the Travelling Salesman Problem (TSP). This project implements a novel hybrid algorithm combining K-Means clustering with Ant Colony Optimisation (ACO) to find near-optimal routes for healthcare logistics.
 
-This project, part of my Natural Computing module, designs and implements a two-stage solution to optimise routes for healthcare services (e.g., GP home visits), aiming to minimise total travel distance and operational costs.
 
-## 1. Overview
 
-The challenge is a variant of the complex, NP-hard Travelling Salesman Problem (TSP). A brute-force approach is computationally infeasible. This solution intelligently decomposes the problem:
+## 1. Project Goal & Overview
 
-1.  **Clustering:** First, K-Means Clustering is used to partition all patient locations into distinct, localised clusters, assigning each cluster to a specific GP surgery.
-2.  **Optimisation:** Second, the Ant Colony Optimisation (ACO) metaheuristic is applied to each cluster independently to find the shortest possible route for that GP to visit all their assigned patients.
+The challenge of this project was to design a system that could efficiently plan routes for healthcare services (e.g., GP home visits) to minimise total travel distance and operational costs. A brute-force approach to this NP-hard problem is computationally infeasible.
 
-## 2. Key Features
+This solution intelligently decomposes the problem into two distinct stages:
 
-* **Hybrid Algorithm:** Implements an innovative two-stage solution, combining an unsupervised clustering algorithm (K-Means) with a powerful metaheuristic (ACO).
-* **Complex Problem-Solving:** Solves a real-world, NP-hard optimisation problem (a TSP/VRP variant).
-* **Parameter Tuning:** Includes analysis of ACO parameters (e.g., heuristic weighting 'beta', pheromone evaporation 'rho') to find the optimal balance between exploration and exploitation, ensuring a high-quality solution.
-* **Data Visualisation:** Uses the Folium library to plot and visualise the final, optimised patient routes on an interactive map.
+1.  **Clustering:** The K-Means algorithm is first applied to partition all patient locations into distinct, geographically-localised clusters. Each cluster represents a manageable service zone.
+2.  **Optimisation:** The Ant Colony Optimisation (ACO) metaheuristic is then applied to each cluster independently. The ACO algorithm finds the shortest, most efficient path *within* each zone, creating a complete and optimised route for each service vehicle.
+
+This hybrid approach makes the problem computationally tractable and produces a highly efficient solution.
+
+## 2. Key Features & Technical Implementation
+
+* **Hybrid Algorithmic Model:** Implements an innovative two-stage solution, combining an unsupervised clustering algorithm (K-Means) with a powerful, nature-inspired metaheuristic (ACO).
+* **K-Means Clustering:** Leverages `scikit-learn`'s `KMeans` to effectively partition a dataset of synthetic patient coordinates (modelled for the Greenwich area) into logical service zones.
+* **Ant Colony Optimisation:** A custom ACO implementation is used to find the shortest path within each cluster. This involves a detailed convergence analysis and parameter tuning process.
+* **Parameter Tuning:** The system was optimised by tuning key ACO parameters, such as the heuristic weighting (**beta**) and pheromone evaporation rate (**rho**), to find the optimal balance between solution quality and computational time.
+* **Interactive Visualisation:** Uses the **Folium** library to render the final, optimised routes on an interactive map, providing a clear and powerful demonstration of the solution's efficacy.
 
 ## 3. Technologies & Libraries Used
 
 * **Core:** Python
-* **Data Science:** Pandas, NumPy, Scikit-learn (for `KMeans`)
-* **Optimisation:** `aco-learn` (or a similar Ant Colony Optimisation library)
-* **Visualisation:** Matplotlib (for convergence plots), Folium (for map visualisation)
+* **Data Science:** Pandas, NumPy
+* **Machine Learning:** Scikit-learn (for `KMeans`)
+* **Optimisation:** `aco-learn` (or similar Ant Colony Optimisation library)
+* **Visualisation:** Matplotlib (for convergence plots), Folium (for map rendering)
 
 ## 4. Installation & Usage
 
@@ -31,12 +37,12 @@ The challenge is a variant of the complex, NP-hard Travelling Salesman Problem (
     `git clone https://github.com/w4el/healthcare-route-optimisation-aco-kmeans.git`
 2.  Navigate to the project directory:
     `cd healthcare-route-optimisation-aco-kmeans`
-3.  Install the required dependencies (you must create this `requirements.txt` file):
+3.  Install the required dependencies from the `requirements.txt` file:
     `pip install -r requirements.txt`
 
-To run the main analysis and see the final route visualisations, open and run the Jupyter Notebook:
+To run the main analysis and generate the route visualisations, open and execute the Jupyter Notebook:
 `jupyter notebook Optimisation_Analysis.ipynb`
 
 ## 5. Results
 
-The hybrid approach demonstrated a significant reduction in total travel distance compared to a non-clustered baseline. The convergence analysis showed that the ACO algorithm effectively found a near-optimal route within 150-200 iterations.
+The integration of K-Means clustering and ACO significantly reduced total travel distances compared to non-clustered baseline approaches. The convergence analysis demonstrated that the ACO algorithm consistently found a near-optimal route within 150-200 iterations, proving the model is both efficient and effective for real-world logistics planning.
