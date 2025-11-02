@@ -40,9 +40,16 @@ This hybrid approach makes the problem computationally tractable and produces a 
 3.  Install the required dependencies from the `requirements.txt` file:
     `pip install -r requirements.txt`
 
-To run the main analysis and generate the route visualisations, open and execute the Jupyter Notebook:
-`jupyter notebook Optimisation_Analysis.ipynb`
+## 5. Running the Analysis
 
-## 5. Results
+This repository contains the Python scripts necessary to run the full analysis.
+
+The main script will:
+1.  Load the synthetic patient coordinate data.
+2.  Apply the K-Means algorithm to cluster the data.
+3.  Apply the Ant Colony Optimisation algorithm to find the shortest path in each cluster.
+4.  Generate and save the convergence plots and a `folium`-generated interactive map of the optimised routes.
+
+## 6. Results
 
 The integration of K-Means clustering and ACO significantly reduced total travel distances compared to non-clustered baseline approaches. The convergence analysis demonstrated that the ACO algorithm consistently found a near-optimal route within 150-200 iterations, proving the model is both efficient and effective for real-world logistics planning.
