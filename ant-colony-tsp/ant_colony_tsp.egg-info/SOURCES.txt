@@ -1,0 +1,6 @@
+README.md
+setup.py
+ant_colony_tsp.egg-info/PKG-INFO
+ant_colony_tsp.egg-info/SOURCES.txt
+ant_colony_tsp.egg-info/dependency_links.txt
+ant_colony_tsp.egg-info/top_level.txt

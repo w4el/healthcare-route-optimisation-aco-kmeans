@@ -1,0 +1,1539 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-02T10:32:12Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228849252",
+        "addr:city": "London",
+        "addr:postcode": "SE8 3BX",
+        "addr:street": "Clarence Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "check_date": "2023-02-16",
+        "healthcare": "doctor",
+        "name": "The Wallace Health Centre",
+        "opening_hours": "Mo,We 07:00-17:30; Tu,Th 08:30-18:30; Fr 08:00-17:30; PH off"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.0187757,
+              51.4816646
+            ],
+            [
+              -0.0186933,
+              51.4813778
+            ],
+            [
+              -0.0186723,
+              51.4813802
+            ],
+            [
+              -0.0186595,
+              51.4813357
+            ],
+            [
+              -0.0185253,
+              51.4813506
+            ],
+            [
+              -0.018595,
+              51.4815934
+            ],
+            [
+              -0.0185564,
+              51.4816553
+            ],
+            [
+              -0.0186783,
+              51.4816428
+            ],
+            [
+              -0.0187757,
+              51.4816646
+            ]
+          ]
+        ]
+      },
+      "id": "way/228849252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1082776120",
+        "addr:city": "London",
+        "addr:housenumber": "48",
+        "addr:postcode": "SE10 8EX",
+        "addr:street": "Burney Street",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Burney Street Practice",
+        "opening_hours": "Mo-Tu 08:00-20:00; We-Th 07:00-17:00; Fr 08:00-17:00",
+        "operator": "NHS",
+        "phone": "+44 20 8858 0631",
+        "website": "https://www.burneystreetpractice.co.uk/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.0085276,
+              51.4791529
+            ],
+            [
+              -0.0084656,
+              51.4791157
+            ],
+            [
+              -0.0082546,
+              51.4792525
+            ],
+            [
+              -0.0083166,
+              51.4792896
+            ],
+            [
+              -0.0085276,
+              51.4791529
+            ]
+          ]
+        ]
+      },
+      "id": "way/1082776120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1104034539",
+        "addr:city": "London",
+        "addr:housenumber": "71a",
+        "addr:postcode": "SE10 8NT",
+        "addr:street": "South Street",
+        "amenity": "clinic",
+        "building": "yes",
+        "contact:phone": "+44 20 8293 3330",
+        "healthcare": "clinic",
+        "name": "South Street Medical Centre",
+        "website": "http://www.greenwichmedics.co.uk/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Ground floor accessible from street. (Small) lift access to upper floor. Upper floor has tight, but passable corridor. Small accessible toilet on each floor (ground floor bigger) but access is not the best.",
+        "wikidata": "Q27085797"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.0122756,
+              51.4760632
+            ],
+            [
+              -0.0124159,
+              51.4760823
+            ],
+            [
+              -0.0124186,
+              51.4760747
+            ],
+            [
+              -0.0124546,
+              51.4760796
+            ],
+            [
+              -0.0124604,
+              51.476063
+            ],
+            [
+              -0.0124765,
+              51.4760652
+            ],
+            [
+              -0.0124672,
+              51.4760917
+            ],
+            [
+              -0.012579,
+              51.4761069
+            ],
+            [
+              -0.0126115,
+              51.4760142
+            ],
+            [
+              -0.0125004,
+              51.4759991
+            ],
+            [
+              -0.0124916,
+              51.4760241
+            ],
+            [
+              -0.0124726,
+              51.4760215
+            ],
+            [
+              -0.0124787,
+              51.476004
+            ],
+            [
+              -0.0124449,
+              51.4759994
+            ],
+            [
+              -0.0124476,
+              51.4759917
+            ],
+            [
+              -0.0123266,
+              51.4759753
+            ],
+            [
+              -0.0123139,
+              51.4760115
+            ],
+            [
+              -0.0122947,
+              51.4760089
+            ],
+            [
+              -0.0122756,
+              51.4760632
+            ]
+          ]
+        ]
+      },
+      "id": "way/1104034539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/536153717",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "The Source"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0266775,
+              51.4473132
+            ],
+            [
+              0.0266064,
+              51.4473295
+            ],
+            [
+              0.0265473,
+              51.447223
+            ],
+            [
+              0.0266173,
+              51.4472064
+            ],
+            [
+              0.0266775,
+              51.4473132
+            ]
+          ]
+        ]
+      },
+      "id": "way/536153717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/537570819",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Vista Fields Children’s Centre",
+        "operator": "NHS",
+        "operator:wikidata": "Q918396"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0420396,
+              51.4436219
+            ],
+            [
+              0.0421307,
+              51.4435432
+            ],
+            [
+              0.042301,
+              51.4436198
+            ],
+            [
+              0.0426925,
+              51.4437959
+            ],
+            [
+              0.0426547,
+              51.4438286
+            ],
+            [
+              0.0425633,
+              51.4439075
+            ],
+            [
+              0.0422493,
+              51.4437663
+            ],
+            [
+              0.0422144,
+              51.4437506
+            ],
+            [
+              0.0421947,
+              51.4437418
+            ],
+            [
+              0.0422124,
+              51.4437265
+            ],
+            [
+              0.0422329,
+              51.4437088
+            ],
+            [
+              0.0420396,
+              51.4436219
+            ]
+          ]
+        ]
+      },
+      "id": "way/537570819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947161419",
+        "addr:city": "London",
+        "addr:postcode": "SE9 3JD",
+        "addr:street": "William Barefoot Drive",
+        "addr:suburb": "Mottingham",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0582455,
+              51.431404
+            ],
+            [
+              0.0582115,
+              51.4313549
+            ],
+            [
+              0.0582546,
+              51.4313433
+            ],
+            [
+              0.0583109,
+              51.4311873
+            ],
+            [
+              0.0582198,
+              51.4311745
+            ],
+            [
+              0.0582466,
+              51.4311003
+            ],
+            [
+              0.0583442,
+              51.431114
+            ],
+            [
+              0.0583511,
+              51.4310949
+            ],
+            [
+              0.0584443,
+              51.431108
+            ],
+            [
+              0.0583725,
+              51.4313066
+            ],
+            [
+              0.0584095,
+              51.4313599
+            ],
+            [
+              0.0582455,
+              51.431404
+            ]
+          ]
+        ]
+      },
+      "id": "way/947161419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935794645",
+        "addr:city": "London",
+        "addr:housenumber": "52",
+        "addr:postcode": "SE9 3PT",
+        "addr:street": "Thaxted Road",
+        "addr:suburb": "New Eltham",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "New Eltham Medical Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0748319,
+              51.4347851
+            ],
+            [
+              0.0748759,
+              51.43481
+            ],
+            [
+              0.0749153,
+              51.4347831
+            ],
+            [
+              0.0749991,
+              51.4348306
+            ],
+            [
+              0.0748751,
+              51.4349157
+            ],
+            [
+              0.0747471,
+              51.4348431
+            ],
+            [
+              0.0748319,
+              51.4347851
+            ]
+          ]
+        ]
+      },
+      "id": "way/935794645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738949922",
+        "addr:city": "London",
+        "addr:housenumber": "12",
+        "addr:postcode": "SE9 2BD",
+        "addr:street": "Avery Hill Road",
+        "addr:suburb": "New Eltham",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Welling Medical Practice",
+        "website": "https://www.wellingmedicalpractice.co.uk/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0735523,
+              51.4381772
+            ],
+            [
+              0.0736842,
+              51.4380977
+            ],
+            [
+              0.0737247,
+              51.4380734
+            ],
+            [
+              0.0737842,
+              51.4381117
+            ],
+            [
+              0.0737073,
+              51.438158
+            ],
+            [
+              0.0737753,
+              51.4382019
+            ],
+            [
+              0.073827,
+              51.4381708
+            ],
+            [
+              0.0738821,
+              51.4382063
+            ],
+            [
+              0.0737348,
+              51.438295
+            ],
+            [
+              0.0735523,
+              51.4381772
+            ]
+          ]
+        ]
+      },
+      "id": "way/738949922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203795908",
+        "addr:city": "London",
+        "addr:housenumber": "117",
+        "addr:postcode": "SE3 0EN",
+        "addr:street": "Brook Lane",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "centre",
+        "name": "Manor Brook Medical Centre",
+        "phone": "+44 20 8856 5678",
+        "website": "https://manorbrookmedicalcentre.co.uk/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0249589,
+              51.4692535
+            ],
+            [
+              0.0249867,
+              51.4692399
+            ],
+            [
+              0.0248898,
+              51.4691631
+            ],
+            [
+              0.0248258,
+              51.4691945
+            ],
+            [
+              0.0247127,
+              51.4691048
+            ],
+            [
+              0.0249197,
+              51.4690035
+            ],
+            [
+              0.025028,
+              51.4690893
+            ],
+            [
+              0.025128,
+              51.4691686
+            ],
+            [
+              0.0252955,
+              51.4690866
+            ],
+            [
+              0.0254106,
+              51.4691779
+            ],
+            [
+              0.0253836,
+              51.4691911
+            ],
+            [
+              0.025408,
+              51.4692104
+            ],
+            [
+              0.0252899,
+              51.4692682
+            ],
+            [
+              0.025265,
+              51.4692485
+            ],
+            [
+              0.0252302,
+              51.4692655
+            ],
+            [
+              0.0252538,
+              51.4692842
+            ],
+            [
+              0.0251254,
+              51.4693471
+            ],
+            [
+              0.0251022,
+              51.4693287
+            ],
+            [
+              0.0250723,
+              51.4693433
+            ],
+            [
+              0.0249589,
+              51.4692535
+            ]
+          ]
+        ]
+      },
+      "id": "way/203795908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546322909",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Kidbrooke Village Clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0283496,
+              51.4603148
+            ],
+            [
+              0.0283761,
+              51.4602097
+            ],
+            [
+              0.0288869,
+              51.4602598
+            ],
+            [
+              0.0288604,
+              51.4603648
+            ],
+            [
+              0.0283496,
+              51.4603148
+            ]
+          ]
+        ]
+      },
+      "id": "way/546322909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/238426721",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Eltham Medical Practice"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0504632,
+              51.4573024
+            ],
+            [
+              0.0506886,
+              51.4573231
+            ],
+            [
+              0.0506625,
+              51.457433
+            ],
+            [
+              0.0504372,
+              51.4574123
+            ],
+            [
+              0.0504632,
+              51.4573024
+            ]
+          ]
+        ]
+      },
+      "id": "way/238426721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1102837687",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "The Fairfield Centre",
+        "website": "https://www.thefairfieldpractice.co.uk/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0382501,
+              51.4838604
+            ],
+            [
+              0.0382899,
+              51.4838278
+            ],
+            [
+              0.038295,
+              51.4838175
+            ],
+            [
+              0.038257,
+              51.4838103
+            ],
+            [
+              0.038271,
+              51.4837674
+            ],
+            [
+              0.0382973,
+              51.4837276
+            ],
+            [
+              0.0383337,
+              51.4837345
+            ],
+            [
+              0.0383389,
+              51.4837238
+            ],
+            [
+              0.0383354,
+              51.4836828
+            ],
+            [
+              0.0383775,
+              51.483682
+            ],
+            [
+              0.0384205,
+              51.4836848
+            ],
+            [
+              0.038465,
+              51.4836917
+            ],
+            [
+              0.0385032,
+              51.4837002
+            ],
+            [
+              0.038538,
+              51.4837134
+            ],
+            [
+              0.038541,
+              51.4837067
+            ],
+            [
+              0.0386458,
+              51.4837247
+            ],
+            [
+              0.0386527,
+              51.4837097
+            ],
+            [
+              0.038661,
+              51.4837039
+            ],
+            [
+              0.0386727,
+              51.4837019
+            ],
+            [
+              0.0386853,
+              51.483704
+            ],
+            [
+              0.0386911,
+              51.4837089
+            ],
+            [
+              0.0386936,
+              51.4837159
+            ],
+            [
+              0.0386862,
+              51.4837334
+            ],
+            [
+              0.0387241,
+              51.48374
+            ],
+            [
+              0.0387191,
+              51.483749
+            ],
+            [
+              0.0387293,
+              51.4837494
+            ],
+            [
+              0.0387453,
+              51.4837512
+            ],
+            [
+              0.0387639,
+              51.4837546
+            ],
+            [
+              0.0387825,
+              51.4837587
+            ],
+            [
+              0.0388006,
+              51.4837627
+            ],
+            [
+              0.0388201,
+              51.4837684
+            ],
+            [
+              0.0388325,
+              51.4837751
+            ],
+            [
+              0.0388425,
+              51.4837812
+            ],
+            [
+              0.0387825,
+              51.4839215
+            ],
+            [
+              0.0387576,
+              51.4839175
+            ],
+            [
+              0.0387463,
+              51.4839216
+            ],
+            [
+              0.0387377,
+              51.48394
+            ],
+            [
+              0.0387409,
+              51.4839406
+            ],
+            [
+              0.0387251,
+              51.4839743
+            ],
+            [
+              0.0386769,
+              51.4839656
+            ],
+            [
+              0.0386568,
+              51.4840086
+            ],
+            [
+              0.0385535,
+              51.4839898
+            ],
+            [
+              0.0385582,
+              51.4839798
+            ],
+            [
+              0.0385056,
+              51.4839702
+            ],
+            [
+              0.0385209,
+              51.4839376
+            ],
+            [
+              0.038473,
+              51.483929
+            ],
+            [
+              0.0384847,
+              51.4839038
+            ],
+            [
+              0.0384056,
+              51.4839025
+            ],
+            [
+              0.0383666,
+              51.4838969
+            ],
+            [
+              0.0383285,
+              51.4838883
+            ],
+            [
+              0.0382859,
+              51.4838751
+            ],
+            [
+              0.0382501,
+              51.4838604
+            ]
+          ]
+        ]
+      },
+      "id": "way/1102837687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239663985",
+        "addr:city": "London",
+        "addr:housenumber": "46",
+        "addr:postcode": "SE9 1JE",
+        "addr:street": "Westmount Road",
+        "amenity": "doctors",
+        "building": "residential",
+        "healthcare": "doctor",
+        "name": "Eltham Medical Practice"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0610145,
+              51.4546215
+            ],
+            [
+              0.0610967,
+              51.4545067
+            ],
+            [
+              0.0612243,
+              51.4545422
+            ],
+            [
+              0.0612168,
+              51.4545526
+            ],
+            [
+              0.0612702,
+              51.4545675
+            ],
+            [
+              0.0612294,
+              51.4546245
+            ],
+            [
+              0.0611884,
+              51.4546131
+            ],
+            [
+              0.0611545,
+              51.4546604
+            ],
+            [
+              0.0610145,
+              51.4546215
+            ]
+          ]
+        ]
+      },
+      "id": "way/239663985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/302916911",
+        "addr:city": "London",
+        "addr:housename": "Ferryview Health Centre",
+        "addr:housenumber": "25",
+        "addr:postcode": "SE18 6PZ",
+        "addr:street": "John Wilson Street",
+        "amenity": "clinic",
+        "building": "commercial",
+        "building:levels": "3",
+        "healthcare": "clinic",
+        "layer": "1",
+        "name": "Ferryview Health Centre",
+        "smoking": "outside",
+        "url": "http://www.valentinehealth.org.uk/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0614482,
+              51.4922916
+            ],
+            [
+              0.0614999,
+              51.4922191
+            ],
+            [
+              0.0614654,
+              51.4922096
+            ],
+            [
+              0.0615183,
+              51.4921354
+            ],
+            [
+              0.0615521,
+              51.4921448
+            ],
+            [
+              0.0616363,
+              51.4920268
+            ],
+            [
+              0.061602,
+              51.4920173
+            ],
+            [
+              0.0616552,
+              51.4919429
+            ],
+            [
+              0.0616893,
+              51.4919523
+            ],
+            [
+              0.0617402,
+              51.491881
+            ],
+            [
+              0.0619552,
+              51.4919406
+            ],
+            [
+              0.0619048,
+              51.4920112
+            ],
+            [
+              0.0619405,
+              51.4920211
+            ],
+            [
+              0.0618864,
+              51.492097
+            ],
+            [
+              0.0618515,
+              51.4920873
+            ],
+            [
+              0.0617707,
+              51.4922004
+            ],
+            [
+              0.0618036,
+              51.4922095
+            ],
+            [
+              0.0617467,
+              51.4922891
+            ],
+            [
+              0.0617097,
+              51.4922788
+            ],
+            [
+              0.0616589,
+              51.49235
+            ],
+            [
+              0.0614482,
+              51.4922916
+            ]
+          ]
+        ]
+      },
+      "id": "way/302916911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/181747675",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Heronsgate Medical Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0820957,
+              51.4933519
+            ],
+            [
+              0.0820635,
+              51.4932985
+            ],
+            [
+              0.0821332,
+              51.4932484
+            ],
+            [
+              0.0822191,
+              51.4932618
+            ],
+            [
+              0.0823639,
+              51.4933419
+            ],
+            [
+              0.0824497,
+              51.4932317
+            ],
+            [
+              0.0825677,
+              51.4932851
+            ],
+            [
+              0.0824926,
+              51.4933686
+            ],
+            [
+              0.0823156,
+              51.4934655
+            ],
+            [
+              0.0820957,
+              51.4933519
+            ]
+          ]
+        ]
+      },
+      "id": "way/181747675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1143061126",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.1091623,
+              51.5055268
+            ],
+            [
+              0.1090819,
+              51.5055656
+            ],
+            [
+              0.1091591,
+              51.5056276
+            ],
+            [
+              0.1094324,
+              51.5054957
+            ],
+            [
+              0.1096185,
+              51.5056451
+            ],
+            [
+              0.1093315,
+              51.5057836
+            ],
+            [
+              0.1092527,
+              51.5057204
+            ],
+            [
+              0.1090101,
+              51.5058375
+            ],
+            [
+              0.1089758,
+              51.50581
+            ],
+            [
+              0.1088784,
+              51.505857
+            ],
+            [
+              0.1088175,
+              51.505808
+            ],
+            [
+              0.108695,
+              51.5058672
+            ],
+            [
+              0.1085246,
+              51.5057305
+            ],
+            [
+              0.1087799,
+              51.5056072
+            ],
+            [
+              0.1088463,
+              51.5056605
+            ],
+            [
+              0.1089428,
+              51.505614
+            ],
+            [
+              0.1087718,
+              51.5054768
+            ],
+            [
+              0.1089767,
+              51.5053779
+            ],
+            [
+              0.1091623,
+              51.5055268
+            ]
+          ]
+        ]
+      },
+      "id": "way/1143061126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1143061131",
+        "addr:city": "London",
+        "addr:postcode": "SE28 8BE",
+        "addr:street": "Bentham Road",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Gallions Reach Health Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.1084172,
+              51.5057607
+            ],
+            [
+              0.1086496,
+              51.5054849
+            ],
+            [
+              0.1088215,
+              51.5053274
+            ],
+            [
+              0.1089836,
+              51.5052977
+            ],
+            [
+              0.1090961,
+              51.505395
+            ],
+            [
+              0.1096511,
+              51.5055268
+            ],
+            [
+              0.10992,
+              51.5054117
+            ],
+            [
+              0.1105265,
+              51.5054959
+            ],
+            [
+              0.1104864,
+              51.5055885
+            ],
+            [
+              0.1103014,
+              51.505801
+            ],
+            [
+              0.1102709,
+              51.5059079
+            ],
+            [
+              0.1100459,
+              51.5060361
+            ],
+            [
+              0.1098323,
+              51.5061227
+            ],
+            [
+              0.1094833,
+              51.5061975
+            ],
+            [
+              0.1092697,
+              51.5061999
+            ],
+            [
+              0.1090618,
+              51.5061607
+            ],
+            [
+              0.1088368,
+              51.5060776
+            ],
+            [
+              0.1084172,
+              51.5057607
+            ]
+          ]
+        ]
+      },
+      "id": "way/1143061131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1489521446",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Thamesmead Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0899246,
+          51.4988157
+        ]
+      },
+      "id": "node/1489521446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708980403",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Court Yard Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0508779,
+          51.4493529
+        ]
+      },
+      "id": "node/1708980403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2375118832",
+        "addr:city": "London",
+        "addr:housename": "Corbidge Court",
+        "addr:street": "Glaisher Street",
+        "addr:unit": "89",
+        "amenity": "clinic",
+        "check_date": "2023-02-16",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "The Carnaby Laser Clinic",
+        "operator:type": "private",
+        "website": "https://www.carnabylaserclinic.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0188626,
+          51.4824867
+        ]
+      },
+      "id": "node/2375118832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2478124873",
+        "amenity": "doctors",
+        "name": "Eltham Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0505401,
+          51.4573639
+        ]
+      },
+      "id": "node/2478124873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4546806426",
+        "addr:city": "London",
+        "addr:housenumber": "374",
+        "addr:postcode": "SE18 4LS",
+        "addr:street": "Shooters Hill Road",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Rose Valley Medical Centre",
+        "phone": "+44 20 3875 3519",
+        "website": "https://www.rosevalleymedicalcentre.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0453366,
+          51.4728584
+        ]
+      },
+      "id": "node/4546806426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9966268948",
+        "addr:city": "London",
+        "addr:housenumber": "12",
+        "addr:postcode": "SE10 9GB",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "2",
+        "name": "Vanbrugh Group Practice",
+        "opening_hours": "Mo-Fr 08:00-18:30",
+        "operator": "NHS",
+        "operator:wikidata": "Q918396",
+        "phone": "+44 333 332 7300",
+        "website": "https://vanbrughgps.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0084044,
+          51.4855219
+        ]
+      },
+      "id": "node/9966268948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10253435777",
+        "addr:city": "London",
+        "addr:housenumber": "8",
+        "addr:postcode": "SE3 7BT",
+        "addr:street": "Old Dover Road",
+        "amenity": "clinic",
+        "contact:instagram": "sarahcrawfordaesthetics",
+        "email": "sarahcrawfordaesthetics@outlook.com",
+        "healthcare": "clinic",
+        "healthcare:speciality": "plastic_surgery",
+        "level": "0",
+        "mobile": "07435 748117",
+        "name": "Sarah Crawford Advanced Aesthetics",
+        "phone": "020 8293 3939",
+        "website": "https://www.sarahcrawfordaesthetics.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0209086,
+          51.4767627
+        ]
+      },
+      "id": "node/10253435777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11821397281",
+        "addr:city": "London",
+        "addr:housenumber": "11,13",
+        "addr:postcode": "SE3 7HB",
+        "addr:street": "Charlton Road",
+        "amenity": "doctors",
+        "email": "greccg.blackheathstandardpms@nhs.net",
+        "healthcare": "doctor",
+        "healthcare:speciality": "community",
+        "name": "Blackheath Standard Surgery",
+        "opening_hours": "Mo-Fr 08:00-18:30",
+        "phone": "+44 20 8269 2040",
+        "website": "https://www.blackheathstandardsurgery.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0198692,
+          51.4781356
+        ]
+      },
+      "id": "node/11821397281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10971700020",
+        "amenity": "doctors",
+        "check_date": "2023-06-12",
+        "healthcare": "doctor",
+        "name": "Clover Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0686395,
+          51.4902336
+        ]
+      },
+      "id": "node/10971700020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8462320757",
+        "amenity": "clinic",
+        "check_date": "2023-06-21",
+        "healthcare": "clinic",
+        "name": "Royal Arsenal Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0734853,
+          51.4923732
+        ]
+      },
+      "id": "node/8462320757"
+    }
+  ]
+}

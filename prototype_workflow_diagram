@@ -1,0 +1,13 @@
+digraph {
+	rankdir=LR
+	Home [label="Home Screen" color=lightblue shape=box style="rounded,filled"]
+	LogClimb [label="Log Climb Page" color=lightgreen shape=box style="rounded,filled"]
+	Weather [label="Weather Forecast Page" color=lightyellow shape=box style="rounded,filled"]
+	Feed [label="Friend Feed Page" color=lightpink shape=box style="rounded,filled"]
+	Home -> LogClimb [label="Click \"Log Climb\""]
+	Home -> Weather [label="Click \"Weather Forecast\""]
+	Home -> Feed [label="Click \"Friend Feed\""]
+	LogClimb -> Home [label="Click \"Save\" or \"Back\""]
+	Weather -> Home [label="Click \"Back\""]
+	Feed -> Home [label="Click \"Back\""]
+}

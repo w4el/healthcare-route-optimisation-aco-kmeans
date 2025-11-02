@@ -1,0 +1,211 @@
+Patient_ID,Name,Latitude,Longitude,Assigned_GP,Is_GP,Cluster
+Thamesmead Health Centre_GP,Thamesmead Health Centre,51.4988157,0.0899246,Thamesmead Health Centre,True,0
+Court Yard Surgery_GP,Court Yard Surgery,51.4493529,0.0508779,Court Yard Surgery,True,1
+The Carnaby Laser Clinic_GP,The Carnaby Laser Clinic,51.4824867,-0.0188626,The Carnaby Laser Clinic,True,2
+Eltham Medical Centre_GP,Eltham Medical Centre,51.4573639,0.0505401,Eltham Medical Centre,True,3
+Rose Valley Medical Centre_GP,Rose Valley Medical Centre,51.4728584,0.0453366,Rose Valley Medical Centre,True,4
+Vanbrugh Group Practice_GP,Vanbrugh Group Practice,51.4855219,0.0084044,Vanbrugh Group Practice,True,5
+Sarah Crawford Advanced Aesthetics_GP,Sarah Crawford Advanced Aesthetics,51.4767627,0.0209086,Sarah Crawford Advanced Aesthetics,True,6
+Blackheath Standard Surgery_GP,Blackheath Standard Surgery,51.4781356,0.0198692,Blackheath Standard Surgery,True,7
+Clover Health Centre_GP,Clover Health Centre,51.4902336,0.0686395,Clover Health Centre,True,8
+Royal Arsenal Medical Centre_GP,Royal Arsenal Medical Centre,51.4923732,0.0734853,Royal Arsenal Medical Centre,True,9
+Patient_1,Patient,51.498493882066,0.0914139367429723,Thamesmead Health Centre,False,0
+Patient_2,Patient,51.49978957523528,0.0966726514215221,Thamesmead Health Centre,False,0
+Patient_3,Patient,51.49712547498659,0.0875478430884728,Thamesmead Health Centre,False,0
+Patient_4,Patient,51.49960068833652,0.0894919345537148,Thamesmead Health Centre,False,0
+Patient_5,Patient,51.50076013586406,0.0913076383158013,Thamesmead Health Centre,False,0
+Patient_6,Patient,51.49979930749753,0.0862766202562154,Thamesmead Health Centre,False,0
+Patient_7,Patient,51.49741389430272,0.0925379665711764,Thamesmead Health Centre,False,0
+Patient_8,Patient,51.497966302680325,0.0885786134255674,Thamesmead Health Centre,False,0
+Patient_9,Patient,51.49904036987346,0.0940465353270851,Thamesmead Health Centre,False,0
+Patient_10,Patient,51.4954371496648,0.0908833519056038,Thamesmead Health Centre,False,0
+Patient_11,Patient,51.49547378528111,0.093517569747499,Thamesmead Health Centre,False,0
+Patient_12,Patient,51.50275845835339,0.0877751616471308,Thamesmead Health Centre,False,0
+Patient_13,Patient,51.49884588137069,0.0899617031904902,Thamesmead Health Centre,False,0
+Patient_14,Patient,51.49883409838712,0.0895652065995103,Thamesmead Health Centre,False,0
+Patient_15,Patient,51.49694802899737,0.0866300651913114,Thamesmead Health Centre,False,0
+Patient_16,Patient,51.50178621949898,0.0846827645132576,Thamesmead Health Centre,False,0
+Patient_17,Patient,51.49960787435344,0.087799527363335,Thamesmead Health Centre,False,0
+Patient_18,Patient,51.49925954407413,0.0888518666332677,Thamesmead Health Centre,False,0
+Patient_19,Patient,51.49978574909994,0.0898874775612205,Thamesmead Health Centre,False,0
+Patient_20,Patient,51.49887773356167,0.0894125836061146,Thamesmead Health Centre,False,0
+Patient_21,Patient,51.45065179127099,0.0537134557007286,Court Yard Surgery,False,1
+Patient_22,Patient,51.44896144718295,0.0532219524397606,Court Yard Surgery,False,1
+Patient_23,Patient,51.44976872026401,0.0516045424583174,Court Yard Surgery,False,1
+Patient_24,Patient,51.448464560862085,0.0456351137323909,Court Yard Surgery,False,1
+Patient_25,Patient,51.4477403039015,0.0490945856707205,Court Yard Surgery,False,1
+Patient_26,Patient,51.44912481006677,0.0509732153688277,Court Yard Surgery,False,1
+Patient_27,Patient,51.44791828384808,0.0536076142623318,Court Yard Surgery,False,1
+Patient_28,Patient,51.450402094734606,0.0565989149088156,Court Yard Surgery,False,1
+Patient_29,Patient,51.44861152130027,0.0540841021008601,Court Yard Surgery,False,1
+Patient_30,Patient,51.44939668559961,0.0512128860482305,Court Yard Surgery,False,1
+Patient_31,Patient,51.44837568355504,0.0526299476902219,Court Yard Surgery,False,1
+Patient_32,Patient,51.449901206369965,0.0515943212602486,Court Yard Surgery,False,1
+Patient_33,Patient,51.44699831932033,0.0523857135472816,Court Yard Surgery,False,1
+Patient_34,Patient,51.45166656401038,0.0566221194004455,Court Yard Surgery,False,1
+Patient_35,Patient,51.4524907852746,0.04932571494018,Court Yard Surgery,False,1
+Patient_36,Patient,51.45026872556223,0.0564428549133278,Court Yard Surgery,False,1
+Patient_37,Patient,51.44578538375926,0.0534007258557787,Court Yard Surgery,False,1
+Patient_38,Patient,51.44768716901861,0.0485858526763913,Court Yard Surgery,False,1
+Patient_39,Patient,51.44922328608629,0.0570000860948483,Court Yard Surgery,False,1
+Patient_40,Patient,51.44965717839313,0.0513962292923406,Court Yard Surgery,False,1
+Patient_41,Patient,51.47966145213687,-0.018128745445611,The Carnaby Laser Clinic,False,2
+Patient_42,Patient,51.48238275823744,-0.0202627740429404,The Carnaby Laser Clinic,False,2
+Patient_43,Patient,51.48292054096374,-0.0201669567723443,The Carnaby Laser Clinic,False,2
+Patient_44,Patient,51.48633711679104,-0.0168560168709287,The Carnaby Laser Clinic,False,2
+Patient_45,Patient,51.482121645475765,-0.0162485319984335,The Carnaby Laser Clinic,False,2
+Patient_46,Patient,51.48136448673692,-0.0244996132736441,The Carnaby Laser Clinic,False,2
+Patient_47,Patient,51.48517958347383,-0.0224422025881639,The Carnaby Laser Clinic,False,2
+Patient_48,Patient,51.48222069219828,-0.0184259800020597,The Carnaby Laser Clinic,False,2
+Patient_49,Patient,51.48206083730799,-0.0184374746919646,The Carnaby Laser Clinic,False,2
+Patient_50,Patient,51.48369238276714,-0.0195046079359606,The Carnaby Laser Clinic,False,2
+Patient_51,Patient,51.48194308781701,-0.0180018057864501,The Carnaby Laser Clinic,False,2
+Patient_52,Patient,51.4833484836827,-0.0189633288417636,The Carnaby Laser Clinic,False,2
+Patient_53,Patient,51.48199101564945,-0.0225820210790891,The Carnaby Laser Clinic,False,2
+Patient_54,Patient,51.48317401746092,-0.0219705268612702,The Carnaby Laser Clinic,False,2
+Patient_55,Patient,51.48223596227167,-0.0254711543663896,The Carnaby Laser Clinic,False,2
+Patient_56,Patient,51.48374088523294,-0.0177309025621274,The Carnaby Laser Clinic,False,2
+Patient_57,Patient,51.481631947456016,-0.0173555995745976,The Carnaby Laser Clinic,False,2
+Patient_58,Patient,51.48266764679454,-0.0186446334051942,The Carnaby Laser Clinic,False,2
+Patient_59,Patient,51.480719928867735,-0.0209657052430661,The Carnaby Laser Clinic,False,2
+Patient_60,Patient,51.48198672202897,-0.018924035434687,The Carnaby Laser Clinic,False,2
+Patient_61,Patient,51.45663242423144,0.0510481701596718,Eltham Medical Centre,False,3
+Patient_62,Patient,51.45892451642949,0.0549792588575001,Eltham Medical Centre,False,3
+Patient_63,Patient,51.45708751653167,0.0484678859263071,Eltham Medical Centre,False,3
+Patient_64,Patient,51.45801565426893,0.0518207353541082,Eltham Medical Centre,False,3
+Patient_65,Patient,51.45473208046025,0.0543367825720791,Eltham Medical Centre,False,3
+Patient_66,Patient,51.45820829122287,0.050609754062599,Eltham Medical Centre,False,3
+Patient_67,Patient,51.456712567848896,0.0439310886803127,Eltham Medical Centre,False,3
+Patient_68,Patient,51.45597748840635,0.0512730549643143,Eltham Medical Centre,False,3
+Patient_69,Patient,51.45686713083716,0.049313921413301,Eltham Medical Centre,False,3
+Patient_70,Patient,51.45627557323407,0.0496982357823239,Eltham Medical Centre,False,3
+Patient_71,Patient,51.4568562007434,0.049326489879276,Eltham Medical Centre,False,3
+Patient_72,Patient,51.45715581161922,0.0503327431984797,Eltham Medical Centre,False,3
+Patient_73,Patient,51.46145484247232,0.0489539533814336,Eltham Medical Centre,False,3
+Patient_74,Patient,51.45576405152617,0.0463469659011261,Eltham Medical Centre,False,3
+Patient_75,Patient,51.45811934298356,0.0564404050625489,Eltham Medical Centre,False,3
+Patient_76,Patient,51.461471183544894,0.0523485661414337,Eltham Medical Centre,False,3
+Patient_77,Patient,51.457327691258094,0.0488951454679548,Eltham Medical Centre,False,3
+Patient_78,Patient,51.45600982926357,0.0518663194438537,Eltham Medical Centre,False,3
+Patient_79,Patient,51.46116667117182,0.0494573769392077,Eltham Medical Centre,False,3
+Patient_80,Patient,51.45754082738754,0.0509285387718951,Eltham Medical Centre,False,3
+Patient_81,Patient,51.47527235570996,0.0470273638600084,Rose Valley Medical Centre,False,4
+Patient_82,Patient,51.47405719244693,0.0450500508140732,Rose Valley Medical Centre,False,4
+Patient_83,Patient,51.47503620347084,0.0486195351366934,Rose Valley Medical Centre,False,4
+Patient_84,Patient,51.471896962480976,0.0444000268331177,Rose Valley Medical Centre,False,4
+Patient_85,Patient,51.47237988480206,0.0512088108645537,Rose Valley Medical Centre,False,4
+Patient_86,Patient,51.4740069841421,0.0409366509877753,Rose Valley Medical Centre,False,4
+Patient_87,Patient,51.47430184226373,0.0493332446595369,Rose Valley Medical Centre,False,4
+Patient_88,Patient,51.47641147347069,0.041740429003411,Rose Valley Medical Centre,False,4
+Patient_89,Patient,51.47227765863592,0.0476704102075635,Rose Valley Medical Centre,False,4
+Patient_90,Patient,51.4715277434712,0.044432504131417,Rose Valley Medical Centre,False,4
+Patient_91,Patient,51.46952349404501,0.0484931453267329,Rose Valley Medical Centre,False,4
+Patient_92,Patient,51.47671310133757,0.0418286350346142,Rose Valley Medical Centre,False,4
+Patient_93,Patient,51.47545830546564,0.0430175939975675,Rose Valley Medical Centre,False,4
+Patient_94,Patient,51.47430051358101,0.0462099696057755,Rose Valley Medical Centre,False,4
+Patient_95,Patient,51.472853458711725,0.0452305691746377,Rose Valley Medical Centre,False,4
+Patient_96,Patient,51.47367595154597,0.047316593960081,Rose Valley Medical Centre,False,4
+Patient_97,Patient,51.47428397685978,0.0431846020861937,Rose Valley Medical Centre,False,4
+Patient_98,Patient,51.47263323242088,0.0443664080570122,Rose Valley Medical Centre,False,4
+Patient_99,Patient,51.474031181309726,0.0466932119827893,Rose Valley Medical Centre,False,4
+Patient_100,Patient,51.4695120920352,0.0436838771844153,Rose Valley Medical Centre,False,4
+Patient_101,Patient,51.48606731741464,0.010167510571873,Vanbrugh Group Practice,False,5
+Patient_102,Patient,51.48829326601641,0.0078410039196803,Vanbrugh Group Practice,False,5
+Patient_103,Patient,51.488996885222406,0.0052910959776243,Vanbrugh Group Practice,False,5
+Patient_104,Patient,51.48764484613496,0.0102245649667394,Vanbrugh Group Practice,False,5
+Patient_105,Patient,51.48572894202454,0.0090688495866992,Vanbrugh Group Practice,False,5
+Patient_106,Patient,51.4895346294815,0.0067426469470618,Vanbrugh Group Practice,False,5
+Patient_107,Patient,51.48418805877801,0.0121658819254879,Vanbrugh Group Practice,False,5
+Patient_108,Patient,51.48427347630203,0.0073878411640478,Vanbrugh Group Practice,False,5
+Patient_109,Patient,51.48785060038448,0.0079223965366769,Vanbrugh Group Practice,False,5
+Patient_110,Patient,51.4832369472242,0.0081289547570793,Vanbrugh Group Practice,False,5
+Patient_111,Patient,51.48447456453078,0.0083524302208634,Vanbrugh Group Practice,False,5
+Patient_112,Patient,51.48818423252159,0.01202241816319,Vanbrugh Group Practice,False,5
+Patient_113,Patient,51.48416057418228,0.006839764501908,Vanbrugh Group Practice,False,5
+Patient_114,Patient,51.48692589971815,0.0059841112305049,Vanbrugh Group Practice,False,5
+Patient_115,Patient,51.48363978438614,0.0132042478028776,Vanbrugh Group Practice,False,5
+Patient_116,Patient,51.48144129760481,0.00982972997955,Vanbrugh Group Practice,False,5
+Patient_117,Patient,51.4894744635643,0.0077676383563233,Vanbrugh Group Practice,False,5
+Patient_118,Patient,51.481696875847696,0.008435639536573,Vanbrugh Group Practice,False,5
+Patient_119,Patient,51.48236632362147,0.0070519172611069,Vanbrugh Group Practice,False,5
+Patient_120,Patient,51.489292033322016,0.0102892066056417,Vanbrugh Group Practice,False,5
+Patient_121,Patient,51.47882049986123,0.0198212063382692,Blackheath Standard Surgery,False,7
+Patient_122,Patient,51.47442258133833,0.0182875435178441,Blackheath Standard Surgery,False,7
+Patient_123,Patient,51.47733507705948,0.0260396140194432,Sarah Crawford Advanced Aesthetics,False,6
+Patient_124,Patient,51.47725461789997,0.0169123600473047,Blackheath Standard Surgery,False,7
+Patient_125,Patient,51.47835632605006,0.018274935195885,Blackheath Standard Surgery,False,7
+Patient_126,Patient,51.47626570323221,0.0167338441957264,Blackheath Standard Surgery,False,7
+Patient_127,Patient,51.48038985013602,0.0247825007394103,Sarah Crawford Advanced Aesthetics,False,6
+Patient_128,Patient,51.47680554344629,0.021011275818711,Blackheath Standard Surgery,False,7
+Patient_129,Patient,51.476130989895445,0.0205195567172636,Blackheath Standard Surgery,False,7
+Patient_130,Patient,51.475077802609086,0.0202647433691764,Blackheath Standard Surgery,False,7
+Patient_131,Patient,51.47750770646968,0.0218392110335856,Sarah Crawford Advanced Aesthetics,False,6
+Patient_132,Patient,51.47573394542581,0.0214151813432309,Sarah Crawford Advanced Aesthetics,False,6
+Patient_133,Patient,51.47600077304436,0.0204403269636579,Blackheath Standard Surgery,False,7
+Patient_134,Patient,51.47672487373319,0.0219168268809879,Sarah Crawford Advanced Aesthetics,False,6
+Patient_135,Patient,51.47750370277812,0.0269626738298588,Sarah Crawford Advanced Aesthetics,False,6
+Patient_136,Patient,51.47496108845077,0.0145759536809875,Blackheath Standard Surgery,False,7
+Patient_137,Patient,51.47736446543593,0.0272926306604065,Sarah Crawford Advanced Aesthetics,False,6
+Patient_138,Patient,51.47528432554047,0.0252089827253608,Sarah Crawford Advanced Aesthetics,False,6
+Patient_139,Patient,51.47606493712235,0.0173382336583617,Blackheath Standard Surgery,False,7
+Patient_140,Patient,51.472892408619856,0.0227001350681502,Sarah Crawford Advanced Aesthetics,False,6
+Patient_141,Patient,51.48004862054485,0.0242215585192992,Sarah Crawford Advanced Aesthetics,False,6
+Patient_142,Patient,51.47908609367843,0.0229280034678266,Sarah Crawford Advanced Aesthetics,False,6
+Patient_143,Patient,51.47660747739309,0.0261891115524537,Sarah Crawford Advanced Aesthetics,False,6
+Patient_144,Patient,51.480235762042206,0.0143699900611868,Blackheath Standard Surgery,False,7
+Patient_145,Patient,51.478257246337485,0.0199673899478313,Blackheath Standard Surgery,False,7
+Patient_146,Patient,51.47797661181094,0.0189348701019471,Blackheath Standard Surgery,False,7
+Patient_147,Patient,51.477616647256745,0.0166901387391482,Blackheath Standard Surgery,False,7
+Patient_148,Patient,51.477401721068624,0.0240610103614865,Sarah Crawford Advanced Aesthetics,False,6
+Patient_149,Patient,51.48038070591126,0.0193466917865471,Blackheath Standard Surgery,False,7
+Patient_150,Patient,51.48123350495991,0.0187512373101661,Blackheath Standard Surgery,False,7
+Patient_151,Patient,51.47805282297544,0.0200235008096939,Blackheath Standard Surgery,False,7
+Patient_152,Patient,51.47616659145952,0.0234356950729036,Sarah Crawford Advanced Aesthetics,False,6
+Patient_153,Patient,51.47947411991488,0.0182515843838612,Blackheath Standard Surgery,False,7
+Patient_154,Patient,51.47862422679596,0.0224819688471752,Sarah Crawford Advanced Aesthetics,False,6
+Patient_155,Patient,51.4746399253901,0.0162622352932646,Blackheath Standard Surgery,False,7
+Patient_156,Patient,51.4777445645555,0.0195583999441215,Blackheath Standard Surgery,False,7
+Patient_157,Patient,51.47673443447912,0.0195051906719489,Blackheath Standard Surgery,False,7
+Patient_158,Patient,51.47829411085124,0.0172268539409083,Blackheath Standard Surgery,False,7
+Patient_159,Patient,51.47763243867984,0.0204549841288869,Blackheath Standard Surgery,False,7
+Patient_160,Patient,51.4779083558668,0.0198013728035794,Blackheath Standard Surgery,False,7
+Patient_161,Patient,51.49073359506343,0.0665479608672261,Clover Health Centre,False,8
+Patient_162,Patient,51.4892620927578,0.07121791391977,Clover Health Centre,False,8
+Patient_163,Patient,51.48876930336933,0.0720472120746482,Clover Health Centre,False,8
+Patient_164,Patient,51.488621620435374,0.0631580453882817,Clover Health Centre,False,8
+Patient_165,Patient,51.490317331687066,0.0697618942566025,Clover Health Centre,False,8
+Patient_166,Patient,51.48828847697658,0.0640528217370019,Clover Health Centre,False,8
+Patient_167,Patient,51.49299855677072,0.0715157258630004,Royal Arsenal Medical Centre,False,9
+Patient_168,Patient,51.49050246748146,0.0687974238714047,Clover Health Centre,False,8
+Patient_169,Patient,51.48869985755773,0.0682517149797143,Clover Health Centre,False,8
+Patient_170,Patient,51.490202547363815,0.0686229602518822,Clover Health Centre,False,8
+Patient_171,Patient,51.486565558571904,0.0684763119062719,Clover Health Centre,False,8
+Patient_172,Patient,51.49021928184133,0.0686657652401342,Clover Health Centre,False,8
+Patient_173,Patient,51.49356815750956,0.0711856491935563,Royal Arsenal Medical Centre,False,9
+Patient_174,Patient,51.49009432423787,0.0680668906139232,Clover Health Centre,False,8
+Patient_175,Patient,51.489358932530365,0.0712431425138725,Clover Health Centre,False,8
+Patient_176,Patient,51.48694179815831,0.0686310763664146,Clover Health Centre,False,8
+Patient_177,Patient,51.49008351125909,0.0682937595382187,Clover Health Centre,False,8
+Patient_178,Patient,51.49018232544319,0.0703858248711352,Clover Health Centre,False,8
+Patient_179,Patient,51.490532916969,0.0696732396818298,Clover Health Centre,False,8
+Patient_180,Patient,51.49183366579651,0.07190899248808,Royal Arsenal Medical Centre,False,9
+Patient_181,Patient,51.48970817954231,0.0715135780600164,Clover Health Centre,False,8
+Patient_182,Patient,51.49187476217976,0.0737118283869696,Royal Arsenal Medical Centre,False,9
+Patient_183,Patient,51.49307459517184,0.076609572785329,Royal Arsenal Medical Centre,False,9
+Patient_184,Patient,51.492402285765394,0.0730206404524364,Royal Arsenal Medical Centre,False,9
+Patient_185,Patient,51.49107217841004,0.0666380798124986,Clover Health Centre,False,8
+Patient_186,Patient,51.496058365397474,0.0727012146108602,Royal Arsenal Medical Centre,False,9
+Patient_187,Patient,51.48899118799273,0.0751228774962494,Royal Arsenal Medical Centre,False,9
+Patient_188,Patient,51.489750021036045,0.074821011734803,Royal Arsenal Medical Centre,False,9
+Patient_189,Patient,51.49684058817075,0.0731702076078386,Royal Arsenal Medical Centre,False,9
+Patient_190,Patient,51.49561266455207,0.0760095433901781,Royal Arsenal Medical Centre,False,9
+Patient_191,Patient,51.48931748457067,0.0772065350161824,Royal Arsenal Medical Centre,False,9
+Patient_192,Patient,51.49075379616457,0.0728494978408204,Royal Arsenal Medical Centre,False,9
+Patient_193,Patient,51.49428663738592,0.0783928693333144,Royal Arsenal Medical Centre,False,9
+Patient_194,Patient,51.49463843869788,0.068553821005455,Clover Health Centre,False,8
+Patient_195,Patient,51.49068130241403,0.0677201960486893,Clover Health Centre,False,8
+Patient_196,Patient,51.49137020673662,0.0786461363938654,Royal Arsenal Medical Centre,False,9
+Patient_197,Patient,51.491129038403805,0.0773726321814748,Royal Arsenal Medical Centre,False,9
+Patient_198,Patient,51.49475564114469,0.0705815053115342,Royal Arsenal Medical Centre,False,9
+Patient_199,Patient,51.49106933702491,0.0728308548262572,Royal Arsenal Medical Centre,False,9
+Patient_200,Patient,51.49457533270771,0.0715728034661621,Royal Arsenal Medical Centre,False,9
