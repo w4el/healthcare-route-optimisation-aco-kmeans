@@ -28,7 +28,7 @@ This hybrid approach makes the problem computationally tractable and produces a 
 * **Core:** Python
 * **Data Science:** Pandas, NumPy
 * **Machine Learning:** Scikit-learn (for `KMeans`)
-* **Optimisation:** `aco-learn` (or similar Ant Colony Optimisation library)
+* **Optimisation:** `ant-colony-tsp/aco.py` (custom Ant Colony Optimisation implementation)
 * **Visualisation:** Matplotlib (for convergence plots), Folium (for map rendering)
 
 ## 4. Installation & Usage
@@ -44,7 +44,7 @@ This hybrid approach makes the problem computationally tractable and produces a 
 
 This repository contains the Python scripts necessary to run the full analysis.
 
-The main script will:
+Run `src/aco_with_clustering.py` to execute the full pipeline. It will:
 1.  Load the synthetic patient coordinate data.
 2.  Apply the K-Means algorithm to cluster the data.
 3.  Apply the Ant Colony Optimisation algorithm to find the shortest path in each cluster.
